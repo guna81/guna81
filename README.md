@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @guna81
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning react native
+- 👋 Hi, I’m Guna
+- 👀 I’m a Full-stack development
+- 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on social medial projects
-- 📫 How to reach me gunaps810@gmail.com
+- 📫 Reach me gunaps810@gmail.com
 
 <!---
 guna81/guna81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

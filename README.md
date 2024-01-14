@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Guna
 - 👀 I’m a Full-stack developer
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on social medial projects
+- 🌱 I’m an AI enthusiast
+- 💞️ I’m looking to collaborate on social media projects
 - 📫 Reach me gunaps810@gmail.com
 
 <!---

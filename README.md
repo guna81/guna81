@@ -1,6 +1,6 @@
 # Hi there, I'm Guna! 👋
 
-I'm a passionate software developer from Trichy, Tamil Nadu, specializing in building scalable and efficient web and mobile applications. I love working with modern web technologies and am always eager to learn and explore new tools.
+I'm a passionate software developer from Tamil Nadu, India. Specializing in building scalable and efficient web and mobile applications. I love working with modern web technologies and am always eager to learn and explore new tools.
 
 ## 🚀 Skills
 

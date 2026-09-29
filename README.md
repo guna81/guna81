@@ -1,20 +1,18 @@
 # Hi there, I'm Guna! 👋
 
-I'm an **AI Engineer from Tamil Nadu, India**, specializing in **NLP, LLMs, RAG systems, and AI-powered applications**.
+I'm an **AI Engineer from Tamil Nadu, India**, passionate about building practical AI applications and intelligent software systems.
 
-I have a strong software engineering background and enjoy building production-ready AI systems that combine **machine learning, LLMs, backend engineering, and scalable application development**.
-
-I'm particularly interested in **Natural Language Processing, Retrieval-Augmented Generation, LLM fine-tuning, AI agents, and intelligent automation**.
+My experience spans **AI Engineering, NLP, LLMs, RAG, AI Agents, and software development**. I enjoy exploring new AI technologies and turning them into reliable, production-ready solutions.
 
 ## 🤖 AI & Machine Learning
 
-* **NLP:** NER, Text Classification, Entity Assertion, Medical NLP
+* **AI / ML:** PyTorch, TensorFlow, Scikit-Learn, XGBoost
+* **NLP:** Natural Language Processing, NER, Text Classification
 * **LLMs:** LLaMA, Open-Source LLMs, LLM Fine-tuning, Prompt Engineering
-* **RAG:** FAISS, Sentence Transformers, Vector Search, Redis Caching
-* **AI Agents:** LangChain, LangGraph, AI Agent Workflows
-* **ML:** PyTorch, TensorFlow, Scikit-Learn, XGBoost
-* **Document AI:** OCR, Tesseract, Vision-Language Models
-* **Explainability:** SHAP, LIME
+* **RAG:** FAISS, Sentence Transformers, Vector Search, Redis
+* **AI Agents:** LangChain, LangGraph, Agentic Workflows
+* **Document AI:** OCR, Vision-Language Models
+* **Model Explainability:** SHAP, LIME
 
 ## 💻 Software Engineering
 
@@ -22,43 +20,34 @@ I'm particularly interested in **Natural Language Processing, Retrieval-Augmente
 * **Frontend:** React.js, Next.js, React Native, Redux Toolkit
 * **Backend:** Django, Django REST Framework
 * **Databases:** MySQL, Redis
-* **Infrastructure & Tools:** Docker, Celery, Git, Grafana, Loki, Jaeger
+* **Tools & Infrastructure:** Docker, Celery, Git, Grafana, Loki, Jaeger
 
-## 🚀 What I Build
+## 🚀 What I'm Interested In
 
-* 🧠 **NLP & Information Extraction** — Medical NER and document understanding
-* 🔎 **RAG Systems** — Semantic search and knowledge retrieval using embeddings and vector databases
-* 🤖 **LLM Applications** — AI-powered workflows and intelligent automation
-* 🏥 **Healthcare AI** — Clinical NLP and medical document processing
-* 📄 **Document AI** — OCR + Vision-Language Models for extracting structured information
-* 🔗 **AI Agents** — Agentic workflows using LLMs and modern orchestration frameworks
-* 🌐 **Full-Stack Applications** — Scalable applications using React and Django
+* 🧠 **AI Engineering & Applied AI**
+* 🤖 **LLMs & AI Agents**
+* 🔎 **Retrieval-Augmented Generation (RAG)**
+* 📝 **Natural Language Processing**
+* 🛠️ **Building AI-powered applications**
+* ⚡ **Productionizing and optimizing AI systems**
+* 🌐 **Full-Stack Software Development**
 
-## 📌 Featured Work
+## 🌱 Currently Exploring
 
-### 🧬 Medical NLP & Coding
+I'm continuously learning and experimenting with:
 
-Built NLP systems for extracting medical conditions and mapping them to **ICD codes** using NER, semantic search, RAG, embeddings, and LLMs.
-
-### 🔍 Retrieval-Augmented Generation
-
-Developed RAG pipelines using **Sentence Transformers + FAISS + Redis + LLMs** for efficient knowledge retrieval and reduced redundant LLM calls.
-
-### 📄 Document Intelligence
-
-Built systems for extracting patient information from unstructured documents using **OCR and open-source Vision-Language Models**.
-
-### 🤖 AI Agents
-
-Developed AI-powered voice and agentic workflows using **open-source LLMs and modern agent frameworks**.
+* Agentic AI systems
+* LLM application development
+* RAG architectures
+* LLM fine-tuning
+* Open-source AI models
+* AI-assisted software engineering
 
 ## 📫 Let's Connect!
 
 * 🌐 **Website:** [guna81.com](http://www.guna81.com)
 * 💼 **LinkedIn:** [linkedin.com/in/guna81](https://www.linkedin.com/in/guna81)
 * 📧 **Email:** [guna080100@gmail.com](mailto:guna080100@gmail.com)
-
-I'm always interested in **AI Engineering, NLP, LLMs, RAG, AI Agents, and building practical AI products**.
 
 Feel free to reach out if you'd like to collaborate, discuss AI, or build something interesting together!
 
